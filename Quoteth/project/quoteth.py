@@ -6,7 +6,7 @@ from discord.ext import tasks
 import random
 
 
-TOKEN = "ODY4MjUwNzU3NjI1OTcwNzQ4.YPs7hw.1COnNoV9n0ch5GjRC3QMz4rUNiE"
+TOKEN = ""
 intents = discord.Intents.default()
 intents.members = True
 client = discord.Client(intents=intents)
